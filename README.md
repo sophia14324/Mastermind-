@@ -1,5 +1,5 @@
 # Mastermind Game
-Welcome to the Mastermind Game! This is a classic code-breaking board game that requires two players, and this version is designed for single-player use.
+Welcome to the Mastermind Game! This is a classic code-breaking board game that requires two players, and this version is designed for single-player use. The game is great for practising Functions, Random number generation, User input, Data structures, Conditional statements, and Loops.
 
 ## Rules of the Game
 The rules of the game are simple. One player creates a secret code of four colored pegs, choosing from a set of six different colors. The other player must guess the code by placing their own colored pegs in a specific order. After each guess, the code creator provides feedback by indicating which pegs are the correct color and in the correct position, and which pegs are the correct color but in the wrong position. The code breaker continues to make guesses until they correctly guess the code or they run out of turns.
